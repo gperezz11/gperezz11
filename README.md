@@ -20,9 +20,9 @@ class GreiberthPerez:
     def __init__(self):
         self.name = "Greiberth Pérez"
         self.role = "Software Developer & AI Automation Specialist"
-        self.languages = ["Python", "C#", "JavaScript"]
+        self.languages = ["Python", "JavaScript"]
         self.specialties = {
-            "backend": ["Django", "FastAPI", ".NET"],
+            "backend": ["Django"],
             "automation": ["n8n", "Workflow Automation"],
             "ai": ["AI Agents", "OpenAI API"],
             "analytics": ["Power BI", "Data Visualization"]
@@ -36,7 +36,7 @@ me = GreiberthPerez()
 me.say_hi()
 ```
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas robustas y escalables. Especializado en desarrollo backend con Python y C#, automatización de procesos con n8n, y creación de agentes inteligentes con IA. Mi enfoque combina análisis de datos avanzados en Power BI con la potencia de la inteligencia artificial para construir sistemas que trabajan de forma autónoma. Siempre en busca de nuevos desafíos que impulsen mi crecimiento profesional.
+Soy un desarrollador apasionado por crear soluciones tecnológicas robustas y escalables. Especializado en desarrollo backend con Python, automatización de procesos con n8n, y creación de agentes inteligentes con IA. Mi enfoque combina análisis de datos avanzados en Power BI con la potencia de la inteligencia artificial para construir sistemas que trabajan de forma autónoma. Siempre en busca de nuevos desafíos que impulsen mi crecimiento profesional.
 
 ---
 
@@ -51,8 +51,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas robustas y es
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </div>
 </td>
