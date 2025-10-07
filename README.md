@@ -123,7 +123,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas robustas y es
 - 🔄 Workflows complejos sin código
 - 🌐 Integración de +350 servicios
 - 📧 Automatización de emails y notificaciones
-- 📊 ETL automatizado para análisis
 - 🔔 Triggers inteligentes y webhooks
 
 </td>
