@@ -215,7 +215,7 @@ exploring:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/greiberthperezz/)
-[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:greiberth@es.python.org)
 
 **¿Tienes un proyecto interesante? ¡Hablemos!** 🚀
 
